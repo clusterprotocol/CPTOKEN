@@ -22,11 +22,15 @@ forge build
 
 ## Deployments
 
-| Chain | Address |
-|-------|---------|
-| Base | `0x8a5bEd7aB6B7F6b280Fa4551e5b2D75B5acBC611` |
-| BNB Chain | `0x8a5bEd7aB6B7F6b280Fa4551e5b2D75B5acBC611` |
-| Mantle | `0x8a5bEd7aB6B7F6b280Fa4551e5b2D75B5acBC611` |
+The contract is deployed at the same address on every supported chain:
+
+`0x001AAd84c21A5CD4d696C56d44866e9703c43F77`
+
+| Chain | Explorer |
+|-------|----------|
+| Base | [BaseScan](https://basescan.org/address/0x001AAd84c21A5CD4d696C56d44866e9703c43F77) |
+| BNB Chain | [BscScan](https://bscscan.com/address/0x001AAd84c21A5CD4d696C56d44866e9703c43F77) |
+| Mantle | [MantleScan](https://mantlescan.xyz/address/0x001AAd84c21A5CD4d696C56d44866e9703c43F77) |
 
 ## License
 
